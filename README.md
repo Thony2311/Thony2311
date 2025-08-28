@@ -82,7 +82,7 @@ Beyond coding, I love collaborating on innovative projects, sharing knowledge, a
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,bitbucket,docker,figma,vscode,postman,linux,matlab" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,bitbucket,docker,figma,vscode,postman,linux,matlab,arduino" />
   </a>
 </p>
 
