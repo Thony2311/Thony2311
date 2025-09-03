@@ -31,7 +31,7 @@ Software Developer with experience in Python, Django, and Data Analytics. I’m 
 
 - 🌱 I’m currently learning **DevOps, Machine Learning, and Cloud Computing**.
 
-- 💬 Ask me about **Python, Django, SQL, Data Analytics, Java, and Agile Project Management**.
+- 💬 Ask me about **Python, Django, SQL, and Agile Project Management**.
 
 - 📫 How to reach me: **alzatemuriel@gmail.com**
 
