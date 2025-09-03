@@ -66,7 +66,7 @@ Software Developer with experience in Python, Django, and Data Analytics. I’m 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
   </a>
 </p>
 
